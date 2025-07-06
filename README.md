@@ -21,7 +21,7 @@ I’m a postgraduate student currently pursuing an MSc in Business Analytics at 
 ---
 
 ## 📫 Let’s Connect!
-- [LinkedIn]: www.linkedin.com/in/syedmuhammadmubashir
+- LinkedIn: www.linkedin.com/in/syedmuhammadmubashir
 - Email: mubashirghayas2000@gmail.com
 
 ---
