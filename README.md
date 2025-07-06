@@ -6,26 +6,10 @@ I’m a postgraduate student currently pursuing an MSc in Business Analytics at 
 
 ## 🔧 Skills & Tools
 - **Business & Product:** PRDs, Scope Documents, Wireframes, Agile (Scrum), JIRA, Confluence
-- **Data & Analytics:** Python (pandas, matplotlib), SQL, Excel, Power BI
+- **Data & Analytics:** Python (pandas, matplotlib), SQL, Excel, Power BI,SPSS
 - **UI/UX & Mockups:** Figma, Balsamiq, Draw.io
-- **Tech Concepts:** Blockchain, Cryptocurrency, Machine Learning (basic)
-- **Collaboration:** Git, GitHub, Slack, MS Teams
-
----
-
-## 💼 Highlighted Projects
-
-### 📊 [NHS Digdata: Prescription Cost Analysis](https://github.com/yourusername/nhs-prescription-analysis)
-Analyzed national and regional antidepressant prescription trends using Python and pandas. Delivered key insights and visualized patterns across four years of NHS data.
-
-### 🏦 [Experian Virtual Internship: Money Mules Fraud Detection](https://github.com/yourusername/experian-internship-fraud-detection)
-Completed a virtual internship focused on identifying fraudulent transactions linked to money mules. Applied data filtering, behavioral analysis, and visual storytelling.
-
-### 🏟️ [Aston Business Challenge – Top 5 Finalist](https://github.com/yourusername/aston-business-challenge)
-Selected among the top 5 teams (out of 60) in a university-wide competition. Worked on a real-world business case with Aston Villa FC involving strategic innovation and stakeholder engagement.
-
-### 🧾 [Business Analysis Docs & Mockups](https://github.com/yourusername/business-analysis-portfolio)
-Includes real-world PRDs, scope documents, and UI mockups (sanitized), created during my tenure as a Product Owner. Demonstrates requirement gathering, user journey design, and technical planning.
+- **Tech Concepts:** Blockchain, Cryptocurrency, Machine Learning 
+- **Collaboration:** GitHub, Slack, MS Teams
 
 ---
 
@@ -37,9 +21,8 @@ Includes real-world PRDs, scope documents, and UI mockups (sanitized), created d
 ---
 
 ## 📫 Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Email: youremail@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- [LinkedIn]: www.linkedin.com/in/syedmuhammadmubashir
+- Email: mubashirghayas2000@gmail.com
 
 ---
 
